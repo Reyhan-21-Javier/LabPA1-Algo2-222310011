@@ -1,0 +1,5 @@
+Binary tree adalah struktur data berhierarki yang terdiri dari simpul-simpul yang terhubung satu sama lain melalui tepat dua cabang atau anak. Setiap simpul dalam binary tree dapat memiliki paling banyak dua anak, yaitu anak kiri dan anak kanan.
+
+Pada binary tree, satu simpul ditetapkan sebagai simpul akar atau root, dan setiap simpul anak di bawahnya terhubung melalui cabang kiri atau kanan. Setiap simpul yang tidak memiliki anak disebut simpul daun atau leaf node. Sedangkan simpul yang memiliki setidaknya satu anak disebut simpul dalam atau internal node.
+
+Struktur binary tree memungkinkan pengorganisasian data secara hierarkis dengan efisien. Binary tree sering digunakan dalam berbagai aplikasi, termasuk dalam struktur data seperti binary search tree, heap, dan pengkodean Huffman. Selain itu, binary tree juga digunakan dalam implementasi berbagai algoritma dan teknik seperti traversal (penelusuran), pencarian, penyisipan, penghapusan, dan pemrosesan data secara umum.
